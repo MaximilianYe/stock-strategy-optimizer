@@ -40,3 +40,11 @@ This project is in its early design/documentation phase.
 - [ ] Add performance logging + result plots
 - [ ] (Future) Implement Markov-based state modeling
 - [ ] (Future) Reinforcement Learning simulator
+
+
+### 📊 Data Source
+
+This project uses [AKShare](https://github.com/akfamily/akshare) as the data provider for financial market data.  
+AKShare is an open-source Python package designed for academic and research use.
+
+[![Data: akshare](https://img.shields.io/badge/Data%20Science-AKShare-green)](https://github.com/akfamily/akshare)
