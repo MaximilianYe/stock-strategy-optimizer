@@ -37,6 +37,7 @@ This project is in its early design/documentation phase.
 
 - [x] Defined LP model structure
 - [x] Implement data loading + ETF/stock selection interface
+        _Utilized AKShare to fetch historical prices of selected assets._
 - [ ] Add performance logging + result plots
 - [ ] (Future) Implement Markov-based state modeling
 - [ ] (Future) Reinforcement Learning simulator
