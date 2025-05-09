@@ -36,7 +36,7 @@ I came up with a simple LP model inspired by Math482 for single-day portfolio op
 This project is in its early design/documentation phase.
 
 - [x] Defined LP model structure
-- [ ] Implement data loading + ETF/stock selection interface
+- [x] Implement data loading + ETF/stock selection interface
 - [ ] Add performance logging + result plots
 - [ ] (Future) Implement Markov-based state modeling
 - [ ] (Future) Reinforcement Learning simulator
